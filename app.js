@@ -2,7 +2,7 @@ const express = require("express");
 const { Telegraf } = require("telegraf");
 const pgp = require("pg-promise")();
 
-const TOKEN = "6611832379:AAHcW-bZxE1iKQWxJ-DutnlNnB6nLnI_Y3w";
+const TOKEN = "";
 const PORT = 3000;
 
 const app = express();
